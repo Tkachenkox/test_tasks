@@ -1,0 +1,4086 @@
+https://www.udemy.com/course/learn-flutter-beginners-course/
+Custom Method Widget 1.27
+
+Basic List Widget 1.45
+
+How to Install Flutter on Android Studio 1.53
+
+Stack 2.11
+
+CheckBox Widget 2.11
+
+First Flutter Application 2.2
+
+Switch Widget 2.44
+
+StatelessWidget Class 2.53
+
+List Widget (Array of List) 3.16
+
+Custom Class Widget 3.3
+
+Gridview 3.42
+
+SnackBar 3.48
+
+Basic : Create AppBar & It's Basic Properties 3.49
+
+Alert Dialog 3.49
+
+Routes 4.0
+
+Radio Widget 4.06
+
+Buttons Widget 4.18
+
+Row & Column Widget 4.19
+
+Simple Dialog 4.25
+
+TextField Widget 4.44
+
+Slider Widget 4.54
+
+Simple Drawer Widgets 5.56
+
+AppBar Leading & Actions[] 5.59
+
+Tabbar : Top & Bottom 6.04
+
+StatefullWidget Class 6.11
+
+Container Widget 6.37
+https://www.udemy.com/course/pre-google-flutter-and-dart-everything-you-need-to-know/
+Does Flutter come with a framework? 0.25
+
+Does Flutter come with widgets? 0.25
+
+How does Flutter run my code on iOS? 0.42
+
+How does Flutter run my code on Android? 0.46
+
+What is inside the Flutter SDK? 0.54
+
+What is Dart? 1.26
+
+What You’ll Learn From This Course? 1.31
+
+What is Dart and Why Use It? 2.11
+
+Benefits of Flutter 2.28
+
+Installing Flutter for Windows, Linux, and macOS 2.48
+
+How Much Experience as an App Developer Should I have to use Flutter? 2.53
+
+What is Flutter? 2.55
+
+Should You Consider Learning Dart in 2018 and Beyond? 3.05
+
+Why did Flutter Decide to Use Dart? 4.34
+
+Knowing Your App History 4.55
+
+Understanding why you should consider using Google Flutter. 5.11
+https://www.udemy.com/course/introduction-to-flutter/
+About us 0.5
+
+About us 0.56
+
+popUntil() function 1.49
+
+pushReplacementNamed() and popAndPushNamed() functions 2.5
+
+pushNamedAndRemoveUntil() function 3.04
+
+Basic UI 3.06
+
+Adding logic to the design 3.36
+
+push() function 3.49
+
+Form Submission 4.02
+
+Stateful v/s Stateless Widgets 4.07
+
+Appbar, Icon, Center 4.13
+
+Form Validation 4.43
+
+Flexible v/s Expanded 4.55
+
+Flutter Installation 5.41
+
+Creating classes to organize the code 6.39
+
+ListTile, ListViews, Padding 7.05
+
+Parsing Nested JSON 7.36
+
+Text, Row, Column, SingleChildScrollView 8.13
+
+pop() function 8.3
+
+Form Elements 9.02
+
+Prasing simple JSON 9.18
+
+Parsing JSON containing Array 9.42
+
+Future Builder 10.47
+
+Creating a basic interface 10.55
+
+Colors, Container, Gesture Detectors, Snackbar, Gradients 14.37
+
+Http Request for getting data 21.39
+https://www.udemy.com/course/learn-flutter-by-doing/
+OOP - Abstraction 1.25
+
+OOP - Inheritance 1.36
+
+API - Application programming interface 1.48
+
+Widgets review 2.46
+
+Introduction 4.18
+
+Create function part 1 (display image background) 8.47
+
+Create function part 4 (get temperature function) 8.48
+
+Create function part 2 (get current location function) 8.59
+
+Widgets 12.2
+
+Create a new project 12.29
+
+Create function part 5 (get temperature function part 2) 16.21
+
+StatefulWidget 16.35
+
+Create function part 3 (get current location function) 16.56
+https://www.udemy.com/course/dart-programming-tutorial-learn-the-dart-for-flutter/
+Basics of Dart programming language 7.17
+
+Collections in Dart 7.31
+
+Dart Programming - Loops 7.43
+
+Dart Sets 10.2
+
+Null-aware Operators in Dart 10.32
+
+Calsses and object 10.39
+
+Dart Exception Handling With Examples 11.26
+
+Dart Future, async and await 11.42
+
+Types and casting in Dart 14.03
+
+Classes and enums 14.54
+https://www.udemy.com/course/learn-flutter-dart-by-doing-part-2/
+Introduction 1.17
+
+Update GetLocation Class 2.11
+
+Create WeatherData class 6.3
+
+Create HttpHandler class 7.31
+
+Create GetIcons class 12.18
+
+Create DisplayWeatherData class 12.46
+https://www.udemy.com/course/learn-make-intro-view-using-flutter/
+main.dart 0.32
+
+3- Create Page in App 5.36
+
+4- Try The Package 5.47
+
+Finish 5.47
+
+1- Install The Package 6.36
+
+2- Create IntroViewFlutter 7.29
+https://www.udemy.com/course/the-complete-guide-to-arturia-tape-201-delay/
+Download files !!! 0.05
+
+Introduction 0.3
+
+What is Space echo ? 2.21
+
+Interface options 4.15
+
+Practice: FX guitar 6.06
+
+Advanced controls: LFO 7.33
+
+Advanced controls: Inertia, flutter, noise 7.45
+
+Advanced controls: Input EQ 7.47
+
+The Mode selector 9.21
+
+Practice: Guitar and bass 10.24
+
+Options and settings tour 10.5
+
+Practice: FX, voice 13.33
+https://www.udemy.com/course/learn-to-program-apps/
+BLOC pattern training session on the Psi (Telepathy) App 53.38
+https://www.udemy.com/course/dartlang/
+Downloading Dart 1.34
+
+Quick Assignment 1.4
+
+Installing Dart 3.36
+
+Comments 3.52
+
+Arithmetic Operators - Part III 4.01
+
+Keywords - const and final 4.55
+
+Naming Variables 4.59
+
+Hello World 5.42
+
+While Loop 8.3
+
+For Loops 9.18
+
+Decision Making - Part II 9.34
+
+Downloading, Installing and configuring Intellij 10.03
+
+Relational Operators 10.35
+
+Arithmetic Operators - Part I 11.33
+
+Do While Loops 11.44
+
+Logical Operators 12.52
+
+Taking in Input 14.05
+
+Arithmetic Operators - Part II 15.16
+
+Decision Making - Part I 17.32
+
+Variables 17.42
+https://www.udemy.com/course/how-to-create-a-website-without-coding/
+How Customers can log in and access their membership product 0.15
+
+URGENT ANNOUCEMENT 0.57
+
+Manipulate Order of Content Blocks 1.09
+
+Create the membership product 1.12
+
+An intro to membership 1.19
+
+How to create a product carousel/list 1.3
+
+Connecting Your Site To A Payment Provider 1.32
+
+What Platforms We will be using 1.4
+
+Ecommerce Websites 1.53
+
+Classes of Websites 2.26
+
+Learn How To Use The File Manager 3.12
+
+Create a relevancy list 3.29
+
+How To Find Inspiration to create more 3.3
+
+The 4 Different types of products 3.39
+
+Setting Up & Selecting The Template & Connecting Your Site Design To A Domain 3.44
+
+Introduction To Blogs 3.57
+
+look and feel 4.44
+
+Introduction 5.1
+
+Intro To editing Headers, logos, and menus 6.18
+
+Hero Banners & Buttons 6.22
+
+membership customer sequence 8.2
+
+Customizing Our Template To Fit Our Needs 10.27
+
+Globally Edit Buttons 10.48
+
+Deep Dive Into The Tools 12.19
+
+Introductions to Templates 16.41
+https://www.udemy.com/course/flutter-primeros-pasos/
+Nota: Si no te interesa la instalación de OSX 0.07
+
+Presentaciones de la sección 0.08
+
+Temas puntuales de la sección 0.1
+
+Temas puntuales de la sección 0.1
+
+Temas puntuales de la sección 0.12
+
+Widgets de la semana 0.12
+
+Código fuente de la sección 0.12
+
+Temas puntuales de la sección 0.13
+
+Temas puntuales de la sección 0.13
+
+Código fuente de la sección 0.15
+
+Código fuente de la sección 0.25
+
+Información extra sobre mis cursos 0.25
+
+Demostración del resultado de esta sección - Hola Mundo y Contador 0.51
+
+Introducción a la sección 1.36
+
+Introducción a la sección 1.36
+
+Introducción 1.38
+
+Introducción a la sección 1.39
+
+Introducción a la sección 1.48
+
+Resolviendo - The method 'forEach' was called on null 1.55
+
+¿Cómo funcionará el curso? 2.04
+
+Introducción a la sección 2.15
+
+Despedida del curso 2.34
+
+Árbol de Widgets 2.57
+
+Forma corta de definir propiedades de las clases 3.14
+
+Windows y OSX - Correr aplicación en dispositivo físico - Android 3.32
+
+Tipo de dato - Booleanos y condiciones 3.33
+
+Antes de realizar preguntas en el curso 3.4
+
+Tarea - Cambiar la ubicación del FloatingActionButton 3.45
+
+Demostración de la aplicación - Componentes 3.57
+
+Inicio de proyecto - Contador y Hola Mundo 3.58
+
+Async - Await 4.09
+
+Extends 4.13
+
+Cambiar el idioma del Datepicker 4.13
+
+Contador problema del StatelessWidget 4.15
+
+Implementar funcionalidad de los botones 4.36
+
+Clases abstractas 5.05
+
+Email y Password fields 5.16
+
+Página - HomePage 5.18
+
+Separando la lógica en varios archivos 5.46
+
+Inicio de proyecto - Componentes 6.05
+
+Widget - Circle Avatar 6.08
+
+Instalaciones iniciales - Editor de código y descargas 6.21
+
+Pull to refresh 6.23
+
+Hola Mundo 6.27
+
+Listview - Mostrar una lista de elementos 6.31
+
+Checkbox y Switches 6.46
+
+Tipo de dato - Lista 6.54
+
+Crear proyectos desde Visual Studio Code - Windows 6.57
+
+Conceptos fundamentales de flutter 7.09
+
+Tipos de datos - Números y Strings 7.11
+
+Método map de las listas y ListTile 7.18
+
+Futures 7.21
+
+Navegar con rutas con nombre 7.25
+
+Crear ListTiles a partir de una lista estática 7.26
+
+Getters y Setters 7.32
+
+Rutas generadas dinámicamente y archivo de rutas independiente 7.34
+
+Tipo de dato - Map 7.47
+
+Utilidades - Obtener ícono por strings 7.49
+
+InfiniteScroll 7.52
+
+Creación de un Android Virtual - Windows 7.53
+
+Estructura de un proyecto en Flutter 7.55
+
+Constructores con nombre 8.09
+
+Convertir el JSONString en un Map 8.28
+
+Instalaciones en OSX 8.52
+
+Botón flotante - FloatingActionButton 8.52
+
+Navegar a una nueva pantalla en Flutter 8.53
+
+Mixins 9.02
+
+Resumen de la sección - Contador 9.02
+
+¿Por qué Dart? 9.03
+
+Funciones en Dart 9.03
+
+Listview Builder 9.13
+
+Resumen de la sección 9.18
+
+Card Widget 9.42
+
+Configurar XCode y lanzar nuestro proyecto en iPhone Simulator 9.5
+
+OSX - Correr aplicación directamente en un iPhone 9.54
+
+Android Studio y simulador de Android 10.01
+
+Datepicker 10.02
+
+Clases en Dart 10.06
+
+Columnas y estilos 10.1
+
+Dropdown y DropdownMenuItem 10.14
+
+Widget - Scaffold 10.2
+
+Instalaciones en Windows 10.25
+
+Leer un archivo JSON Local 10.38
+
+Widget - Alert 10.45
+
+Creando más acciones en nuestro contador 11.25
+
+InfiniteScroll con Futures 11.31
+
+Nuestro primer Widget 11.41
+
+StatefulWidget 11.59
+
+Slider 12.04
+
+Image y FadeIn Image 12.18
+
+Future Builder 12.5
+
+inputFields 13.4
+
+Personalizando el estilo de las cards 14.1
+
+Container y AnimatedContainer 15.11
+https://www.udemy.com/course/dart-flutter-gratis/
+S03-CL05: Ámbito léxico 1.4
+
+S06-CL05: Instalación plugin Flutter para Android Studio 2.2
+
+S04-CL01: Condicionales 2.32
+
+S02-CL01: Instalacción Flutter MacOS 2.41
+
+S05-CL01: Clases y contructores 2.41
+
+S02-CL08: Booleans 2.49
+
+S02-CL02: Editores para Dart 3.0
+
+S01-CL01: Formato del curso 3.02
+
+S01-CL02: Sistema de puntuación 3.21
+
+S04-CL04: Switch y case 3.26
+
+S05-CL02: Usando constructores y atributos 3.27
+
+S07-CL01: Creando un proyecto en Flutter 3.47
+
+S07-CL04: Creando emulador Android 3.48
+
+S05-CL04: Métodos 3.57
+
+S02-CL03: Hello World Dart! 4.01
+
+S03-CL04: Funciones anónimas 4.05
+
+S03-CL01: Funciones 4.4
+
+S02-CL10: Sets 4.45
+
+S02-CL12: Runes 4.45
+
+S07-CL06: Scaffold Widget 4.51
+
+S02-CL05: Final and const 4.55
+
+S03-CL03: Funciones como parámetro 5.1
+
+S02-CL11: Maps 5.18
+
+S06-CL01: Instalación Flutter MacOS 5.21
+
+S02-CL09: Lists 5.22
+
+S05-CL03: Otros Constructores 5.27
+
+S07-CL05: StatelessWidget 5.28
+
+S04-CL02: Bucles for 5.4
+
+S07-CL02: Estructura de proyecto Flutter 6.1
+
+S02-CL07: Strings 6.2
+
+S06-CL03: Intalación Android Studio en MacOS 6.22
+
+S04-CL03: Bucles while y do-while 6.52
+
+S07-CL03: El fichero "main.dart" 6.54
+
+S02-CL04: Variables 7.11
+
+S03-CL02: Parámetros opcionales 8.33
+
+S02-CL06: Numbers 8.53
+
+S06-CL04: Intalación Android Studio en Windows 15.39
+https://www.udemy.com/course/flutter-crie-aplicativos-android-e-ios-com-sdk-mobile-do-google-e-dart/
+Criando o projeto da seção usando CLI (Terminal) 0.53
+
+O que você desenvolverá nesta seção. 0.58
+
+Material Design e Scaffold 1.4
+
+Instalando o Visual Studio Code e as extensões do Flutter 2.09
+
+Usando o Visual Studio Code e Hot Reload 2.15
+
+Widgets 4.1
+
+Programação Orientada a Objetos - Classes e Objetos (Prática) 4.15
+
+Criando e executando o aplicativo usando CLI (Command Line Interface) 4.49
+
+Baixando e instalando o Flutter 5.0
+
+Programação Orientada a Objetos - Classes e Objetos (Conceitos) 6.18
+
+Conclusão do aplicativo e do curso 7.0
+
+ListView e Expanded 7.02
+
+Entendendo o Layout 7.1
+
+Escrevendo nosso primeiro aplicativo completo 8.21
+
+Implementando o Layout 8.56
+
+Apresentação 11.23
+
+Column e Row 13.26
+
+TextField, StatefulWidget (setState) e TextEditingController 20.4
+https://www.udemy.com/course/logica-de-programacao-com-dart/
+Organizando 0.43
+
+Tipagem de Lista 1.02
+
+Arrow Function 1.2
+
+Iniciando Projeto 1.27
+
+Avisos 1.3
+
+Refatorando carrinho de compras 1.38
+
+Recapitulando 1.4
+
+Acessando um item da Lista 1.47
+
+Tipando maps 1.51
+
+Conhecendo o CMD 1.57
+
+Adicionando a lista 2.08
+
+Tipagem de variável 2.11
+
+Estrutura de decisão com argumentos 2.11
+
+Iniciando Projeto 2.13
+
+Função com parâmetro 2.16
+
+Parâmetros inteligentes 2.17
+
+Sintaxe e Semântica 2.22
+
+Executando programas 2.26
+
+Melhorando a saída (impressão) 2.35
+
+Removendo um item da lista 2.38
+
+Instalando uma IDE (VSCode) 2.43
+
+Recapitulando 2.45
+
+Comentários 2.51
+
+Construtores inteligêntes 2.51
+
+Refatorando cálculo de idade 2.54
+
+Concatenação de texto 2.57
+
+Tipagem 3.0
+
+Pasta e arquivos gerados 3.02
+
+Argumentos 3.02
+
+Refatorando calculo de IMC e cadastro 3.05
+
+Funções 3.15
+
+Herança 3.17
+
+Exercício de Algoritmo 3.25
+
+Paradigma Linear Modular 3.25
+
+Instalando o Dart 3.34
+
+Finalizando 3.35
+
+Exercício Final 3.41
+
+Limpando terminal 3.48
+
+Método Construtor 3.49
+
+Criando uma lista de Map 3.5
+
+Loop com While 3.51
+
+Exercício com Herança 4.09
+
+Finalizando Algoritmo 4.1
+
+Variável Global 4.14
+
+Recapitulando 4.17
+
+Funções com retorno 4.28
+
+Modularizando Projeto 4.31
+
+Primeiro Algoritmo 4.34
+
+Navegando entre pastas 4.38
+
+Criando Keys dinamicamente 4.41
+
+Algoritmos 4.48
+
+O que é? 4.48
+
+Importando outro arquivo 4.57
+
+Entendendo os Arrays 4.58
+
+Estrutura de Projeto 5.13
+
+Criando Métodos 5.29
+
+Loop com For 5.33
+
+Programa com Loop While 5.34
+
+Linguagem de Programação 5.35
+
+Protegendo variáveis 5.45
+
+Class 6.17
+
+Iniciando projeto 6.2
+
+Introdução 6.26
+
+Criando comandos 6.39
+
+O que são Maps 7.34
+
+Entrada(input) 7.46
+
+Variáveis 8.12
+
+Algoritmos Computacionais 8.57
+
+Operações matemáticas 9.16
+
+Criando Array (List) 9.42
+
+Estrutura de decisão 10.04
+
+Função principal (main) e Saída (Output) 11.07
+
+Cálculo de IMC 16.31
+https://www.udemy.com/course/flutter-desenvolva-um-cadastro-completo-2020/
+Aula Bônus 0.1
+
+Introdução 1.32
+
+Stateless Para Stateful 1.47
+
+Criar Projeto 1.55
+
+Usando Provider #02 3.01
+
+Método para Excluir Usuário 3.3
+
+Lista de Usuários 3.56
+
+Classe Usuário e Dados Fixos 5.14
+
+Navegação 5.57
+
+Alterar Usuário 6.13
+
+Componente Usuário Item 7.57
+
+Excluir Usuário 8.15
+
+Método para Salvar Usuário 9.15
+
+Usando Provider #01 9.38
+
+Inserir Usuário 11.58
+
+Instalação no Linux 16.08
+
+Instalação no Windows 16.21
+
+Instalação no MacOS 17.11
+https://www.udemy.com/course/pro_flutter/
+Структура приложения 4.35
+
+Stateless виджеты 4.54
+
+Установка и создание приложения 6.0
+
+Statefull виджеты 6.37
+
+Виджет ListView 6.42
+
+Виджет Container и BoxDecoration 6.57
+
+Виджеты Column и Row 10.02
+https://www.udemy.com/course/flutter-bloc-pattern-tutorial-from-scratch-arabic/
+لمحة عن محتويات القسم 1.0
+
+تلذذ و انطلق 1.3
+
+Section Overview 1.5
+
+لمحة عن محتويات القسم 1.51
+
+مثال تسجيل الدخول باستخدام بلوك -Login Example-Bloc Time 3.37
+
+مقارنة بين البلوك العام و البلوك المقيد - Global lvs scoped 3.45
+
+لمحة عن محتويات القسم 3.47
+
+Provider - استخدام الصنف 6.0
+
+تحسين الكود 6.36
+
+Scoped Bloc - البلوك المقيد 6.4
+
+لماذا Streams? 7.54
+
+مثال لعبة تخمين الكلمات -Word Guessing Game 8.0
+
+BLoC مقارنة Stateful Widgets 8.55
+
+مثال تسجيل الدخول- Login Example 10.03
+
+Generics in dart - الاصناف العامة 11.09
+
+لماذا نستخدم صنفان لتنجيز Statefulwidget 11.17
+
+Stream مقاربة و تمثيل 13.2
+
+مثال التحقق من المدخلات- Validation Example 13.27
+
+مثال لعبة النقر المتعدد - Multi-Clicks Game 13.52
+
+Provider -انشاء الصنف 14.02
+
+The Stream Builder -الية عمل 18.5
+
+Streams تنجيز الكود 19.08
+
+تنجيز الكود مثال تسجيل الدخول باستخدام بلوك 24.41
+https://www.udemy.com/course/sviluppa-un-app-con-la-grafica-di-instagram-usando-flutter/
+[Bonus] Non hai i requisiti o cerchi qualcosa di avanzato? 0.43
+
+Introduzione 1.11
+
+Griglia con i vari post 3.01
+
+Definizione modelli (Profilo, Utente, Post) 4.29
+
+App con AppBar e StatusBar bianche 6.3
+
+Scaricamento JSON del profilo 7.0
+
+Pagina scrollabile CustomScrollView con profilo utente e post 8.43
+
+Pagina principale (Root) con tabs 9.08
+
+Profilo utente 15.37
+
+Creazione dei modelli a partire dal JSON 24.32
+https://www.udemy.com/course/flutter-ve-paketler/
+Ön Bilgi 0.29
+
+Hatırlatmalar 0.58
+
+Flutter Favori (Paket) Programı 1.46
+
+Yeni Paket Dosyası Oluşturma 2.1
+
+Paket Skoru Yükseltme 3.33
+
+GIT İşlemleri 4.12
+
+Yayınlama için Son Hazırlıklar 4.34
+
+GIT ile Paket Yükleme 4.57
+
+Yayınlama İşlemleri 5.35
+
+Yayınlayıcı Türleri 5.52
+
+Flutter ve Paketlere Giriş 5.56
+
+Plugin mi, Package mı? 6.04
+
+Paket İçeriği Hazırlama - 2 6.32
+
+Pakete Güncelleme Gönderme 6.58
+
+Dosya Yolu ile Paket Yükleme 7.1
+
+Paket Yükleme Merkezi 7.26
+
+Paket İçeriği Hazırlama - 3 7.49
+
+Paket İçeriği Hazırlama - 4 9.33
+
+Paket İçeriği Hazırlama - 1 11.13
+
+pub.dev Paketlerini Uygulamaya Dahil Etme 11.16
+
+Paket İçeriği Hazırlama - 5 14.28
+https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/
+Building an App From Scratch 0.05
+
+Showing a Loading Indicator 0.07
+
+Styling a Container 0.08
+
+[DART DEEP DIVE] Inheritance ("extends") vs Mixins ("with") 0.08
+
+Adding an Image Preview 0.08
+
+Wrapping up the Dart DevTools 0.09
+
+Using Builder Methods 0.09
+
+Finishing Landscape Mode 0.11
+
+Screens & Navigation 0.13
+
+Flutter macOS Setup 0.21
+
+Flutter App Basics 0.26
+
+Showing a DatePicker 0.28
+
+Adding AppBar Buttons & Floating Action Buttons 0.33
+
+Checking the Device Platform 0.38
+
+Useful Resources & Links 0.39
+
+An Overview of the Generated Files & Folders 0.41
+
+Planning the App 0.48
+
+Time to Update Products! 0.49
+
+Connecting the Cart Provider 0.52
+
+Http Requests & Futures 0.53
+
+How To Send Http Requests 1.08
+
+Dart Basics 1.15
+
+Introducing Maps 1.3
+
+Building a Custom List Item 1.34
+
+Showing Different Content Based on Device Orientation 1.37
+
+Using Named Routes & Passing Data With Named Routes 1.41
+
+How Flutter Rebuilds & Repaints the Screen 1.43
+
+Extracting Widgets 1.43
+
+What is Flutter? 1.48
+
+Planning the App 1.52
+
+Understanding the Repaint Rainbow 1.53
+
+Adding User Transactions to the List 1.55
+
+Useful Resources & Links 2.0
+
+Running the App on a Real Android Device 2.03
+
+Handling Errors Gracefully 2.05
+
+Module Introduction 2.06
+
+Providing non-Objects 2.13
+
+Running the App on an iOS Emulator 2.2
+
+Diving Deeper into Named Routes 2.23
+
+Running the App on an Emulator 2.25
+
+Combining Widgets 2.25
+
+Advanced Flutter & Dart Basics 2.27
+
+Time to Practice: Builder Methods 2.32
+
+More Navigation! 2.38
+
+Splitting the App Into Widgets 2.39
+
+Dart Fundamentals 2.4
+
+Understanding the "Provider" Package & Approach 2.4
+
+Styling Time! 2.43
+
+Connecting Widgets & Managing Data / State 2.46
+
+Adding a Bottom TabBar 2.46
+
+"Edit Product" Screen & A Problem 2.47
+
+Useful Resources & Links 2.49
+
+Working with Providers & Listeners 2.55
+
+Adding Shopping Cart Data 2.55
+
+Creating Custom Adaptive Widgets 2.58
+
+Image Input & Image Preview 3.02
+
+Using the Device Size in Conditions 3.04
+
+Using the LayoutBuilder Widget 3.07
+
+What does "Responsive" and "Adaptive" Mean? 3.08
+
+How Flutter Executes build() 3.09
+
+Finishing the Meal List Item 3.1
+
+Using "const" Widgets & Constructors 3.11
+
+Flutter Windows Setup 3.12
+
+Using Private Properties 3.13
+
+Understanding the Widget Lifecycle 3.13
+
+Styling Text 3.19
+
+Official Docs & The Widget Catalog 3.2
+
+Mapping Data Into Widgets 3.23
+
+Updating Widget Data (Or: Using StatelessWidget Incorrectly) 3.25
+
+Multiline Inputs & Disposing Objects 3.29
+
+Fetching Data, initState & "of(context)" 3.36
+
+Working with ListViews 3.38
+
+Adding Text Input Widgets (TextField) 3.39
+
+[DART DEEP DIVE] Futures & Async Code 3.39
+
+Making Orders Expandable & Stateful Widgets vs Providers 3.41
+
+Wrap Up 3.43
+
+Analyzing the Default App 3.45
+
+Sending POST Requests 3.52
+
+Rendering Alternative Landscape Content - 1 3.54
+
+Module Introduction 3.56
+
+Using Keys 3.57
+
+Theming 3.58
+
+Useful Resources & Links 4.03
+
+Outputting Widgets Conditionally 4.06
+
+Creating a New Project 4.08
+
+Working with "async" & "await" 4.08
+
+Useful Resources & Links 4.1
+
+Wrap Up 4.11
+
+How to Connect Flutter to a Database 4.14
+
+More Cupertino Styles 4.19
+
+Planning the App 4.21
+
+Widgets & Configuring Widgets - Summary / Overview 4.22
+
+How to Transform Fetched Data 4.31
+
+Deriving Recent Transactions 4.32
+
+Allowing Users to Delete Products 4.35
+
+Using Cupertino Buttons 4.42
+
+Adding a Meal Model & Data 4.45
+
+Android Licenses & XMLSchema Error 4.47
+
+Showing Alert Dialogs 4.49
+
+Using the Debugger 4.53
+
+Not a Widget: Adding a Transaction Model & Transaction Data 4.54
+
+Adding Links to the Drawer 4.56
+
+Useful Resources & Links 4.56
+
+Widget Basics 4.57
+
+Widgets, Elements, build() 5.04
+
+[OPTIONAL] Working with Regular Expressions 5.06
+
+Examples: Where we could improve the App! 5.07
+
+Styling & Theming 5.09
+
+Splitting the App Into Widgets 5.12
+
+Exploring Alternative Provider Syntaxes 5.14
+
+Introducing "if" Statements 5.16
+
+Calculating Sizes Dynamically 5.19
+
+Lists, Scrolling & Text Input 5.21
+
+Wrap Up 5.25
+
+Fetching User Input 5.26
+
+Understanding Column Alignment 5.27
+
+Replacing, Popping & Data 5.27
+
+Module Introduction 5.29
+
+Building a Widget Tree 5.32
+
+Adaptive Widgets 5.33
+
+Controlling the Device Orientation 5.34
+
+Registering a Screen as the Main Screen 5.34
+
+The Problem At Hand 5.36
+
+ListView or Column 5.45
+
+Getters & "else-if" 5.52
+
+Join our Online Learning Community 5.54
+
+An Overview of the Core Flutter Widgets 5.54
+
+Respecting the Softkeyboard Insets 5.55
+
+Implementing Pull-to-Refresh 5.56
+
+Working on the Shopping Cart & Displaying a Total 5.58
+
+More Dart Basics 6.06
+
+Keys, Lists, Stateful Widgets 6.07
+
+Using String Interpolation 6.11
+
+Adding Images to the App 6.11
+
+Final Polishing! 6.19
+
+Columns & Rows 6.21
+
+Working with Multiple Providers 6.23
+
+Local State vs App-wide State 6.29
+
+Populating the Chart with Values 6.3
+
+State, State Management & The Provider Package/ Approach 6.32
+
+Custom Fonts & Working with Text Themes 6.33
+
+Understanding Error Messages & Fixing Errors 6.34
+
+Passing Callback Functions Around 6.36
+
+Dart Basics - Summary 6.4
+
+Finishing the Meal Detail Page 6.42
+
+Creating a Grid & Working with Linear Gradients 6.46
+
+Module Resources 6.51
+
+Creating a New, Custom Widget 6.52
+
+Listening in Different Places & Ways 6.55
+
+Adding Product Detail Data 6.55
+
+Updating the "Favorite" Status Optimistically 6.59
+
+Responsiveness 7.02
+
+Navigating to the Meal Detail Page 7.04
+
+Validating User Input 7.12
+
+Popping Pages & Passing Data Back 7.17
+
+Adding Transactions with a Date 7.24
+
+Providing an Orders Object 7.25
+
+Further Input & Output Styling and Configuration 7.29
+
+Enums & Multiple Constructors 7.3
+
+Utilizing Optimistic Updating 7.35
+
+Wrap Up 7.38
+
+A Brief Look Under The Hood 7.4
+
+Using Cupertino (iOS) Widgets 7.44
+
+Adding a "Manage Products" Page 7.44
+
+Working with the Emulators / Using the Emulators 7.46
+
+Displaying Recipe Items & Using Network Images 7.49
+
+Improving the Overall Chart 7.57
+
+Saving New Products 7.59
+
+[DART DEEP DIVE] The "null" Value 8.01
+
+Updating Correctly with Stateful Widgets 8.1
+
+Using Forms & Working with Form Inputs 8.11
+
+First Summary & Additional Syntax 8.2
+
+Using the "FutureBuilder" Widget & Improving the Code 8.27
+
+DateFormat Patterns 8.28
+
+More on "for" Loops 8.28
+
+[DART DEEP DIVE] Understanding Lists 8.29
+
+Styling & Theming the App 8.31
+
+Adding an Orders Screen 8.39
+
+Finishing the Chart Bars 8.42
+
+Snackbars & Undoing "Add to Cart" Actions 8.47
+
+Understanding the App Lifecycle 8.48
+
+Widget Tree & Element Tree - What, Why and How? 9.05
+
+Managing the MediaQuery Object 9.13
+
+Containers vs Columns vs Rows 9.18
+
+Understanding Context 9.18
+
+Starting With The App - Adding Base Data 9.25
+
+Creating Custom Exceptions & More Error Handling 9.27
+
+Improving & Styling the Modal Bottom Sheet 9.29
+
+Creating Bars for our Chart 9.32
+
+Showing a Modal Bottom Sheet 9.41
+
+More Styling! 9.42
+
+Preparing Our Backend 9.5
+
+Fetching Orders & Fixing an Issue 9.52
+
+Running the App on a Real iOS Device 9.57
+
+onGenerateRoute & onUnknownRoute 10.1
+
+Wrap Up 10.21
+
+Useful Resources & Links 10.23
+
+Resetting the Quiz 10.24
+
+Adding a "Mark as Favorite" Feature 10.26
+
+Managing Form Input Focus 10.29
+
+Using "Consumer" instead of "Provider.of" 10.3
+
+Submitting Forms 10.3
+
+Calculating a Total Score 10.38
+
+Calling super.initState() etc. 10.45
+
+Time to Practice: Flutter Basics 10.5
+
+Updating Data via PATCH Requests 10.55
+
+Deleting Transactions & Using IconButtons 10.59
+
+Anonymous Functions 11.02
+
+Flexible & Expanded: Deep Dive 11.07
+
+Working with the "textScaleFactor" 11.13
+
+Module Introduction 11.15
+
+Navigating to a New Page 11.15
+
+A Problem with Lists & Stateful Widgets 11.16
+
+Module Introduction 11.17
+
+Selecting Meals for a Chosen Category 11.18
+
+Wrap Up 11.31
+
+Useful Resources & Links 11.37
+
+[DART DEEP DIVE] More on "if" Statements 11.5
+
+Mapping Lists to Widgets 11.58
+
+On-Device vs Web Storage 12.01
+
+Planning the Chart Widget 12.02
+
+Storing Orders in the Web 12.11
+
+Class Constructors & Named Arguments 12.15
+
+Wrap Up 12.37
+
+Configuring & Using Themes 12.44
+
+Adding a Custom Drawer 12.44
+
+Module Introduction 12.55
+
+Adding Layout Widgets 13.06
+
+A Problem! 13.12
+
+Module Introduction 13.15
+
+Getting Started with Date Selection 13.47
+
+Making Cart Items Dismissible 14.03
+
+Adding Validation to All Inputs 14.15
+
+Tabs & Drawers! 14.59
+
+Replacing Pages (Instead of Pushing) 15.21
+
+Adding Orders 15.4
+
+Adding Navigation to the App 16.19
+
+Working with Futures in Dart 16.19
+
+Using Nested Models & Providers 16.24
+
+Defining a Data Model 17.06
+
+Visible (Input / Output) & Invisible (Layout / Control) Widgets 17.17
+
+Adding Filtering Logic 17.34
+
+Module Introduction 19.35
+
+Why State Management? And what is "State" and "State Management"? 19.57
+
+More on State Management & The Provider Package 21.09
+
+More on Git (Version Control System) 31.46
+https://www.udemy.com/course/learn-flutter-beginners-course/
+Custom Method Widget 1.27
+
+Basic List Widget 1.45
+
+How to Install Flutter on Android Studio 1.53
+
+Stack 2.11
+
+CheckBox Widget 2.11
+
+First Flutter Application 2.2
+
+Switch Widget 2.44
+
+StatelessWidget Class 2.53
+
+List Widget (Array of List) 3.16
+
+Custom Class Widget 3.3
+
+Gridview 3.42
+
+SnackBar 3.48
+
+Basic : Create AppBar & It's Basic Properties 3.49
+
+Alert Dialog 3.49
+
+Routes 4.0
+
+Radio Widget 4.06
+
+Buttons Widget 4.18
+
+Row & Column Widget 4.19
+
+Simple Dialog 4.25
+
+TextField Widget 4.44
+
+Slider Widget 4.54
+
+Simple Drawer Widgets 5.56
+
+AppBar Leading & Actions[] 5.59
+
+Tabbar : Top & Bottom 6.04
+
+StatefullWidget Class 6.11
+
+Container Widget 6.37
+https://www.udemy.com/course/pre-google-flutter-and-dart-everything-you-need-to-know/
+Does Flutter come with a framework? 0.25
+
+Does Flutter come with widgets? 0.25
+
+How does Flutter run my code on iOS? 0.42
+
+How does Flutter run my code on Android? 0.46
+
+What is inside the Flutter SDK? 0.54
+
+What is Dart? 1.26
+
+What You’ll Learn From This Course? 1.31
+
+What is Dart and Why Use It? 2.11
+
+Benefits of Flutter 2.28
+
+Installing Flutter for Windows, Linux, and macOS 2.48
+
+How Much Experience as an App Developer Should I have to use Flutter? 2.53
+
+What is Flutter? 2.55
+
+Should You Consider Learning Dart in 2018 and Beyond? 3.05
+
+Why did Flutter Decide to Use Dart? 4.34
+
+Knowing Your App History 4.55
+
+Understanding why you should consider using Google Flutter. 5.11
+https://www.udemy.com/course/introduction-to-flutter/
+About us 0.5
+
+About us 0.56
+
+popUntil() function 1.49
+
+pushReplacementNamed() and popAndPushNamed() functions 2.5
+
+pushNamedAndRemoveUntil() function 3.04
+
+Basic UI 3.06
+
+Adding logic to the design 3.36
+
+push() function 3.49
+
+Form Submission 4.02
+
+Stateful v/s Stateless Widgets 4.07
+
+Appbar, Icon, Center 4.13
+
+Form Validation 4.43
+
+Flexible v/s Expanded 4.55
+
+Flutter Installation 5.41
+
+Creating classes to organize the code 6.39
+
+ListTile, ListViews, Padding 7.05
+
+Parsing Nested JSON 7.36
+
+Text, Row, Column, SingleChildScrollView 8.13
+
+pop() function 8.3
+
+Form Elements 9.02
+
+Prasing simple JSON 9.18
+
+Parsing JSON containing Array 9.42
+
+Future Builder 10.47
+
+Creating a basic interface 10.55
+
+Colors, Container, Gesture Detectors, Snackbar, Gradients 14.37
+
+Http Request for getting data 21.39
+https://www.udemy.com/course/learn-flutter-by-doing/
+OOP - Abstraction 1.25
+
+OOP - Inheritance 1.36
+
+API - Application programming interface 1.48
+
+Widgets review 2.46
+
+Introduction 4.18
+
+Create function part 1 (display image background) 8.47
+
+Create function part 4 (get temperature function) 8.48
+
+Create function part 2 (get current location function) 8.59
+
+Widgets 12.2
+
+Create a new project 12.29
+
+Create function part 5 (get temperature function part 2) 16.21
+
+StatefulWidget 16.35
+
+Create function part 3 (get current location function) 16.56
+https://www.udemy.com/course/dart-programming-tutorial-learn-the-dart-for-flutter/
+Basics of Dart programming language 7.17
+
+Collections in Dart 7.31
+
+Dart Programming - Loops 7.43
+
+Dart Sets 10.2
+
+Null-aware Operators in Dart 10.32
+
+Calsses and object 10.39
+
+Dart Exception Handling With Examples 11.26
+
+Dart Future, async and await 11.42
+
+Types and casting in Dart 14.03
+
+Classes and enums 14.54
+https://www.udemy.com/course/learn-flutter-dart-by-doing-part-2/
+Introduction 1.17
+
+Update GetLocation Class 2.11
+
+Create WeatherData class 6.3
+
+Create HttpHandler class 7.31
+
+Create GetIcons class 12.18
+
+Create DisplayWeatherData class 12.46
+https://www.udemy.com/course/learn-make-intro-view-using-flutter/
+main.dart 0.32
+
+3- Create Page in App 5.36
+
+4- Try The Package 5.47
+
+Finish 5.47
+
+1- Install The Package 6.36
+
+2- Create IntroViewFlutter 7.29
+https://www.udemy.com/course/the-complete-guide-to-arturia-tape-201-delay/
+Download files !!! 0.05
+
+Introduction 0.3
+
+What is Space echo ? 2.21
+
+Interface options 4.15
+
+Practice: FX guitar 6.06
+
+Advanced controls: LFO 7.33
+
+Advanced controls: Inertia, flutter, noise 7.45
+
+Advanced controls: Input EQ 7.47
+
+The Mode selector 9.21
+
+Practice: Guitar and bass 10.24
+
+Options and settings tour 10.5
+
+Practice: FX, voice 13.33
+https://www.udemy.com/course/learn-to-program-apps/
+BLOC pattern training session on the Psi (Telepathy) App 53.38
+https://www.udemy.com/course/dartlang/
+Downloading Dart 1.34
+
+Quick Assignment 1.4
+
+Installing Dart 3.36
+
+Comments 3.52
+
+Arithmetic Operators - Part III 4.01
+
+Keywords - const and final 4.55
+
+Naming Variables 4.59
+
+Hello World 5.42
+
+While Loop 8.3
+
+For Loops 9.18
+
+Decision Making - Part II 9.34
+
+Downloading, Installing and configuring Intellij 10.03
+
+Relational Operators 10.35
+
+Arithmetic Operators - Part I 11.33
+
+Do While Loops 11.44
+
+Logical Operators 12.52
+
+Taking in Input 14.05
+
+Arithmetic Operators - Part II 15.16
+
+Decision Making - Part I 17.32
+
+Variables 17.42
+https://www.udemy.com/course/how-to-create-a-website-without-coding/
+How Customers can log in and access their membership product 0.15
+
+URGENT ANNOUCEMENT 0.57
+
+Manipulate Order of Content Blocks 1.09
+
+Create the membership product 1.12
+
+An intro to membership 1.19
+
+How to create a product carousel/list 1.3
+
+Connecting Your Site To A Payment Provider 1.32
+
+What Platforms We will be using 1.4
+
+Ecommerce Websites 1.53
+
+Classes of Websites 2.26
+
+Learn How To Use The File Manager 3.12
+
+Create a relevancy list 3.29
+
+How To Find Inspiration to create more 3.3
+
+The 4 Different types of products 3.39
+
+Setting Up & Selecting The Template & Connecting Your Site Design To A Domain 3.44
+
+Introduction To Blogs 3.57
+
+look and feel 4.44
+
+Introduction 5.1
+
+Intro To editing Headers, logos, and menus 6.18
+
+Hero Banners & Buttons 6.22
+
+membership customer sequence 8.2
+
+Customizing Our Template To Fit Our Needs 10.27
+
+Globally Edit Buttons 10.48
+
+Deep Dive Into The Tools 12.19
+
+Introductions to Templates 16.41
+https://www.udemy.com/course/flutter-primeros-pasos/
+Nota: Si no te interesa la instalación de OSX 0.07
+
+Presentaciones de la sección 0.08
+
+Temas puntuales de la sección 0.1
+
+Temas puntuales de la sección 0.1
+
+Temas puntuales de la sección 0.12
+
+Widgets de la semana 0.12
+
+Código fuente de la sección 0.12
+
+Temas puntuales de la sección 0.13
+
+Temas puntuales de la sección 0.13
+
+Código fuente de la sección 0.15
+
+Código fuente de la sección 0.25
+
+Información extra sobre mis cursos 0.25
+
+Demostración del resultado de esta sección - Hola Mundo y Contador 0.51
+
+Introducción a la sección 1.36
+
+Introducción a la sección 1.36
+
+Introducción 1.38
+
+Introducción a la sección 1.39
+
+Introducción a la sección 1.48
+
+Resolviendo - The method 'forEach' was called on null 1.55
+
+¿Cómo funcionará el curso? 2.04
+
+Introducción a la sección 2.15
+
+Despedida del curso 2.34
+
+Árbol de Widgets 2.57
+
+Forma corta de definir propiedades de las clases 3.14
+
+Windows y OSX - Correr aplicación en dispositivo físico - Android 3.32
+
+Tipo de dato - Booleanos y condiciones 3.33
+
+Antes de realizar preguntas en el curso 3.4
+
+Tarea - Cambiar la ubicación del FloatingActionButton 3.45
+
+Demostración de la aplicación - Componentes 3.57
+
+Inicio de proyecto - Contador y Hola Mundo 3.58
+
+Async - Await 4.09
+
+Extends 4.13
+
+Cambiar el idioma del Datepicker 4.13
+
+Contador problema del StatelessWidget 4.15
+
+Implementar funcionalidad de los botones 4.36
+
+Clases abstractas 5.05
+
+Email y Password fields 5.16
+
+Página - HomePage 5.18
+
+Separando la lógica en varios archivos 5.46
+
+Inicio de proyecto - Componentes 6.05
+
+Widget - Circle Avatar 6.08
+
+Instalaciones iniciales - Editor de código y descargas 6.21
+
+Pull to refresh 6.23
+
+Hola Mundo 6.27
+
+Listview - Mostrar una lista de elementos 6.31
+
+Checkbox y Switches 6.46
+
+Tipo de dato - Lista 6.54
+
+Crear proyectos desde Visual Studio Code - Windows 6.57
+
+Conceptos fundamentales de flutter 7.09
+
+Tipos de datos - Números y Strings 7.11
+
+Método map de las listas y ListTile 7.18
+
+Futures 7.21
+
+Navegar con rutas con nombre 7.25
+
+Crear ListTiles a partir de una lista estática 7.26
+
+Getters y Setters 7.32
+
+Rutas generadas dinámicamente y archivo de rutas independiente 7.34
+
+Tipo de dato - Map 7.47
+
+Utilidades - Obtener ícono por strings 7.49
+
+InfiniteScroll 7.52
+
+Creación de un Android Virtual - Windows 7.53
+
+Estructura de un proyecto en Flutter 7.55
+
+Constructores con nombre 8.09
+
+Convertir el JSONString en un Map 8.28
+
+Instalaciones en OSX 8.52
+
+Botón flotante - FloatingActionButton 8.52
+
+Navegar a una nueva pantalla en Flutter 8.53
+
+Mixins 9.02
+
+Resumen de la sección - Contador 9.02
+
+¿Por qué Dart? 9.03
+
+Funciones en Dart 9.03
+
+Listview Builder 9.13
+
+Resumen de la sección 9.18
+
+Card Widget 9.42
+
+Configurar XCode y lanzar nuestro proyecto en iPhone Simulator 9.5
+
+OSX - Correr aplicación directamente en un iPhone 9.54
+
+Android Studio y simulador de Android 10.01
+
+Datepicker 10.02
+
+Clases en Dart 10.06
+
+Columnas y estilos 10.1
+
+Dropdown y DropdownMenuItem 10.14
+
+Widget - Scaffold 10.2
+
+Instalaciones en Windows 10.25
+
+Leer un archivo JSON Local 10.38
+
+Widget - Alert 10.45
+
+Creando más acciones en nuestro contador 11.25
+
+InfiniteScroll con Futures 11.31
+
+Nuestro primer Widget 11.41
+
+StatefulWidget 11.59
+
+Slider 12.04
+
+Image y FadeIn Image 12.18
+
+Future Builder 12.5
+
+inputFields 13.4
+
+Personalizando el estilo de las cards 14.1
+
+Container y AnimatedContainer 15.11
+https://www.udemy.com/course/dart-flutter-gratis/
+S03-CL05: Ámbito léxico 1.4
+
+S06-CL05: Instalación plugin Flutter para Android Studio 2.2
+
+S04-CL01: Condicionales 2.32
+
+S02-CL01: Instalacción Flutter MacOS 2.41
+
+S05-CL01: Clases y contructores 2.41
+
+S02-CL08: Booleans 2.49
+
+S02-CL02: Editores para Dart 3.0
+
+S01-CL01: Formato del curso 3.02
+
+S01-CL02: Sistema de puntuación 3.21
+
+S04-CL04: Switch y case 3.26
+
+S05-CL02: Usando constructores y atributos 3.27
+
+S07-CL01: Creando un proyecto en Flutter 3.47
+
+S07-CL04: Creando emulador Android 3.48
+
+S05-CL04: Métodos 3.57
+
+S02-CL03: Hello World Dart! 4.01
+
+S03-CL04: Funciones anónimas 4.05
+
+S03-CL01: Funciones 4.4
+
+S02-CL10: Sets 4.45
+
+S02-CL12: Runes 4.45
+
+S07-CL06: Scaffold Widget 4.51
+
+S02-CL05: Final and const 4.55
+
+S03-CL03: Funciones como parámetro 5.1
+
+S02-CL11: Maps 5.18
+
+S06-CL01: Instalación Flutter MacOS 5.21
+
+S02-CL09: Lists 5.22
+
+S05-CL03: Otros Constructores 5.27
+
+S07-CL05: StatelessWidget 5.28
+
+S04-CL02: Bucles for 5.4
+
+S07-CL02: Estructura de proyecto Flutter 6.1
+
+S02-CL07: Strings 6.2
+
+S06-CL03: Intalación Android Studio en MacOS 6.22
+
+S04-CL03: Bucles while y do-while 6.52
+
+S07-CL03: El fichero "main.dart" 6.54
+
+S02-CL04: Variables 7.11
+
+S03-CL02: Parámetros opcionales 8.33
+
+S02-CL06: Numbers 8.53
+
+S06-CL04: Intalación Android Studio en Windows 15.39
+https://www.udemy.com/course/flutter-crie-aplicativos-android-e-ios-com-sdk-mobile-do-google-e-dart/
+Criando o projeto da seção usando CLI (Terminal) 0.53
+
+O que você desenvolverá nesta seção. 0.58
+
+Material Design e Scaffold 1.4
+
+Instalando o Visual Studio Code e as extensões do Flutter 2.09
+
+Usando o Visual Studio Code e Hot Reload 2.15
+
+Widgets 4.1
+
+Programação Orientada a Objetos - Classes e Objetos (Prática) 4.15
+
+Criando e executando o aplicativo usando CLI (Command Line Interface) 4.49
+
+Baixando e instalando o Flutter 5.0
+
+Programação Orientada a Objetos - Classes e Objetos (Conceitos) 6.18
+
+Conclusão do aplicativo e do curso 7.0
+
+ListView e Expanded 7.02
+
+Entendendo o Layout 7.1
+
+Escrevendo nosso primeiro aplicativo completo 8.21
+
+Implementando o Layout 8.56
+
+Apresentação 11.23
+
+Column e Row 13.26
+
+TextField, StatefulWidget (setState) e TextEditingController 20.4
+https://www.udemy.com/course/logica-de-programacao-com-dart/
+Organizando 0.43
+
+Tipagem de Lista 1.02
+
+Arrow Function 1.2
+
+Iniciando Projeto 1.27
+
+Avisos 1.3
+
+Refatorando carrinho de compras 1.38
+
+Recapitulando 1.4
+
+Acessando um item da Lista 1.47
+
+Tipando maps 1.51
+
+Conhecendo o CMD 1.57
+
+Adicionando a lista 2.08
+
+Tipagem de variável 2.11
+
+Estrutura de decisão com argumentos 2.11
+
+Iniciando Projeto 2.13
+
+Função com parâmetro 2.16
+
+Parâmetros inteligentes 2.17
+
+Sintaxe e Semântica 2.22
+
+Executando programas 2.26
+
+Melhorando a saída (impressão) 2.35
+
+Removendo um item da lista 2.38
+
+Instalando uma IDE (VSCode) 2.43
+
+Recapitulando 2.45
+
+Comentários 2.51
+
+Construtores inteligêntes 2.51
+
+Refatorando cálculo de idade 2.54
+
+Concatenação de texto 2.57
+
+Tipagem 3.0
+
+Pasta e arquivos gerados 3.02
+
+Argumentos 3.02
+
+Refatorando calculo de IMC e cadastro 3.05
+
+Funções 3.15
+
+Herança 3.17
+
+Exercício de Algoritmo 3.25
+
+Paradigma Linear Modular 3.25
+
+Instalando o Dart 3.34
+
+Finalizando 3.35
+
+Exercício Final 3.41
+
+Limpando terminal 3.48
+
+Método Construtor 3.49
+
+Criando uma lista de Map 3.5
+
+Loop com While 3.51
+
+Exercício com Herança 4.09
+
+Finalizando Algoritmo 4.1
+
+Variável Global 4.14
+
+Recapitulando 4.17
+
+Funções com retorno 4.28
+
+Modularizando Projeto 4.31
+
+Primeiro Algoritmo 4.34
+
+Navegando entre pastas 4.38
+
+Criando Keys dinamicamente 4.41
+
+Algoritmos 4.48
+
+O que é? 4.48
+
+Importando outro arquivo 4.57
+
+Entendendo os Arrays 4.58
+
+Estrutura de Projeto 5.13
+
+Criando Métodos 5.29
+
+Loop com For 5.33
+
+Programa com Loop While 5.34
+
+Linguagem de Programação 5.35
+
+Protegendo variáveis 5.45
+
+Class 6.17
+
+Iniciando projeto 6.2
+
+Introdução 6.26
+
+Criando comandos 6.39
+
+O que são Maps 7.34
+
+Entrada(input) 7.46
+
+Variáveis 8.12
+
+Algoritmos Computacionais 8.57
+
+Operações matemáticas 9.16
+
+Criando Array (List) 9.42
+
+Estrutura de decisão 10.04
+
+Função principal (main) e Saída (Output) 11.07
+
+Cálculo de IMC 16.31
+https://www.udemy.com/course/flutter-desenvolva-um-cadastro-completo-2020/
+Aula Bônus 0.1
+
+Introdução 1.32
+
+Stateless Para Stateful 1.47
+
+Criar Projeto 1.55
+
+Usando Provider #02 3.01
+
+Método para Excluir Usuário 3.3
+
+Lista de Usuários 3.56
+
+Classe Usuário e Dados Fixos 5.14
+
+Navegação 5.57
+
+Alterar Usuário 6.13
+
+Componente Usuário Item 7.57
+
+Excluir Usuário 8.15
+
+Método para Salvar Usuário 9.15
+
+Usando Provider #01 9.38
+
+Inserir Usuário 11.58
+
+Instalação no Linux 16.08
+
+Instalação no Windows 16.21
+
+Instalação no MacOS 17.11
+https://www.udemy.com/course/pro_flutter/
+Структура приложения 4.35
+
+Stateless виджеты 4.54
+
+Установка и создание приложения 6.0
+
+Statefull виджеты 6.37
+
+Виджет ListView 6.42
+
+Виджет Container и BoxDecoration 6.57
+
+Виджеты Column и Row 10.02
+https://www.udemy.com/course/flutter-bloc-pattern-tutorial-from-scratch-arabic/
+لمحة عن محتويات القسم 1.0
+
+تلذذ و انطلق 1.3
+
+Section Overview 1.5
+
+لمحة عن محتويات القسم 1.51
+
+مثال تسجيل الدخول باستخدام بلوك -Login Example-Bloc Time 3.37
+
+مقارنة بين البلوك العام و البلوك المقيد - Global lvs scoped 3.45
+
+لمحة عن محتويات القسم 3.47
+
+Provider - استخدام الصنف 6.0
+
+تحسين الكود 6.36
+
+Scoped Bloc - البلوك المقيد 6.4
+
+لماذا Streams? 7.54
+
+مثال لعبة تخمين الكلمات -Word Guessing Game 8.0
+
+BLoC مقارنة Stateful Widgets 8.55
+
+مثال تسجيل الدخول- Login Example 10.03
+
+Generics in dart - الاصناف العامة 11.09
+
+لماذا نستخدم صنفان لتنجيز Statefulwidget 11.17
+
+Stream مقاربة و تمثيل 13.2
+
+مثال التحقق من المدخلات- Validation Example 13.27
+
+مثال لعبة النقر المتعدد - Multi-Clicks Game 13.52
+
+Provider -انشاء الصنف 14.02
+
+The Stream Builder -الية عمل 18.5
+
+Streams تنجيز الكود 19.08
+
+تنجيز الكود مثال تسجيل الدخول باستخدام بلوك 24.41
+https://www.udemy.com/course/sviluppa-un-app-con-la-grafica-di-instagram-usando-flutter/
+[Bonus] Non hai i requisiti o cerchi qualcosa di avanzato? 0.43
+
+Introduzione 1.11
+
+Griglia con i vari post 3.01
+
+Definizione modelli (Profilo, Utente, Post) 4.29
+
+App con AppBar e StatusBar bianche 6.3
+
+Scaricamento JSON del profilo 7.0
+
+Pagina scrollabile CustomScrollView con profilo utente e post 8.43
+
+Pagina principale (Root) con tabs 9.08
+
+Profilo utente 15.37
+
+Creazione dei modelli a partire dal JSON 24.32
+https://www.udemy.com/course/flutter-ve-paketler/
+Ön Bilgi 0.29
+
+Hatırlatmalar 0.58
+
+Flutter Favori (Paket) Programı 1.46
+
+Yeni Paket Dosyası Oluşturma 2.1
+
+Paket Skoru Yükseltme 3.33
+
+GIT İşlemleri 4.12
+
+Yayınlama için Son Hazırlıklar 4.34
+
+GIT ile Paket Yükleme 4.57
+
+Yayınlama İşlemleri 5.35
+
+Yayınlayıcı Türleri 5.52
+
+Flutter ve Paketlere Giriş 5.56
+
+Plugin mi, Package mı? 6.04
+
+Paket İçeriği Hazırlama - 2 6.32
+
+Pakete Güncelleme Gönderme 6.58
+
+Dosya Yolu ile Paket Yükleme 7.1
+
+Paket Yükleme Merkezi 7.26
+
+Paket İçeriği Hazırlama - 3 7.49
+
+Paket İçeriği Hazırlama - 4 9.33
+
+Paket İçeriği Hazırlama - 1 11.13
+
+pub.dev Paketlerini Uygulamaya Dahil Etme 11.16
+
+Paket İçeriği Hazırlama - 5 14.28
+https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/
+Building an App From Scratch 0.05
+
+Showing a Loading Indicator 0.07
+
+Styling a Container 0.08
+
+[DART DEEP DIVE] Inheritance ("extends") vs Mixins ("with") 0.08
+
+Adding an Image Preview 0.08
+
+Wrapping up the Dart DevTools 0.09
+
+Using Builder Methods 0.09
+
+Finishing Landscape Mode 0.11
+
+Screens & Navigation 0.13
+
+Flutter macOS Setup 0.21
+
+Flutter App Basics 0.26
+
+Showing a DatePicker 0.28
+
+Adding AppBar Buttons & Floating Action Buttons 0.33
+
+Checking the Device Platform 0.38
+
+Useful Resources & Links 0.39
+
+An Overview of the Generated Files & Folders 0.41
+
+Planning the App 0.48
+
+Time to Update Products! 0.49
+
+Connecting the Cart Provider 0.52
+
+Http Requests & Futures 0.53
+
+How To Send Http Requests 1.08
+
+Dart Basics 1.15
+
+Introducing Maps 1.3
+
+Building a Custom List Item 1.34
+
+Showing Different Content Based on Device Orientation 1.37
+
+Using Named Routes & Passing Data With Named Routes 1.41
+
+How Flutter Rebuilds & Repaints the Screen 1.43
+
+Extracting Widgets 1.43
+
+What is Flutter? 1.48
+
+Planning the App 1.52
+
+Understanding the Repaint Rainbow 1.53
+
+Adding User Transactions to the List 1.55
+
+Useful Resources & Links 2.0
+
+Running the App on a Real Android Device 2.03
+
+Handling Errors Gracefully 2.05
+
+Module Introduction 2.06
+
+Providing non-Objects 2.13
+
+Running the App on an iOS Emulator 2.2
+
+Diving Deeper into Named Routes 2.23
+
+Running the App on an Emulator 2.25
+
+Combining Widgets 2.25
+
+Advanced Flutter & Dart Basics 2.27
+
+Time to Practice: Builder Methods 2.32
+
+More Navigation! 2.38
+
+Splitting the App Into Widgets 2.39
+
+Dart Fundamentals 2.4
+
+Understanding the "Provider" Package & Approach 2.4
+
+Styling Time! 2.43
+
+Connecting Widgets & Managing Data / State 2.46
+
+Adding a Bottom TabBar 2.46
+
+"Edit Product" Screen & A Problem 2.47
+
+Useful Resources & Links 2.49
+
+Working with Providers & Listeners 2.55
+
+Adding Shopping Cart Data 2.55
+
+Creating Custom Adaptive Widgets 2.58
+
+Image Input & Image Preview 3.02
+
+Using the Device Size in Conditions 3.04
+
+Using the LayoutBuilder Widget 3.07
+
+What does "Responsive" and "Adaptive" Mean? 3.08
+
+How Flutter Executes build() 3.09
+
+Finishing the Meal List Item 3.1
+
+Using "const" Widgets & Constructors 3.11
+
+Flutter Windows Setup 3.12
+
+Using Private Properties 3.13
+
+Understanding the Widget Lifecycle 3.13
+
+Styling Text 3.19
+
+Official Docs & The Widget Catalog 3.2
+
+Mapping Data Into Widgets 3.23
+
+Updating Widget Data (Or: Using StatelessWidget Incorrectly) 3.25
+
+Multiline Inputs & Disposing Objects 3.29
+
+Fetching Data, initState & "of(context)" 3.36
+
+Working with ListViews 3.38
+
+Adding Text Input Widgets (TextField) 3.39
+
+[DART DEEP DIVE] Futures & Async Code 3.39
+
+Making Orders Expandable & Stateful Widgets vs Providers 3.41
+
+Wrap Up 3.43
+
+Analyzing the Default App 3.45
+
+Sending POST Requests 3.52
+
+Rendering Alternative Landscape Content - 1 3.54
+
+Module Introduction 3.56
+
+Using Keys 3.57
+
+Theming 3.58
+
+Useful Resources & Links 4.03
+
+Outputting Widgets Conditionally 4.06
+
+Creating a New Project 4.08
+
+Working with "async" & "await" 4.08
+
+Useful Resources & Links 4.1
+
+Wrap Up 4.11
+
+How to Connect Flutter to a Database 4.14
+
+More Cupertino Styles 4.19
+
+Planning the App 4.21
+
+Widgets & Configuring Widgets - Summary / Overview 4.22
+
+How to Transform Fetched Data 4.31
+
+Deriving Recent Transactions 4.32
+
+Allowing Users to Delete Products 4.35
+
+Using Cupertino Buttons 4.42
+
+Adding a Meal Model & Data 4.45
+
+Android Licenses & XMLSchema Error 4.47
+
+Showing Alert Dialogs 4.49
+
+Using the Debugger 4.53
+
+Not a Widget: Adding a Transaction Model & Transaction Data 4.54
+
+Adding Links to the Drawer 4.56
+
+Useful Resources & Links 4.56
+
+Widget Basics 4.57
+
+Widgets, Elements, build() 5.04
+
+[OPTIONAL] Working with Regular Expressions 5.06
+
+Examples: Where we could improve the App! 5.07
+
+Styling & Theming 5.09
+
+Splitting the App Into Widgets 5.12
+
+Exploring Alternative Provider Syntaxes 5.14
+
+Introducing "if" Statements 5.16
+
+Calculating Sizes Dynamically 5.19
+
+Lists, Scrolling & Text Input 5.21
+
+Wrap Up 5.25
+
+Fetching User Input 5.26
+
+Understanding Column Alignment 5.27
+
+Replacing, Popping & Data 5.27
+
+Module Introduction 5.29
+
+Building a Widget Tree 5.32
+
+Adaptive Widgets 5.33
+
+Controlling the Device Orientation 5.34
+
+Registering a Screen as the Main Screen 5.34
+
+The Problem At Hand 5.36
+
+ListView or Column 5.45
+
+Getters & "else-if" 5.52
+
+Join our Online Learning Community 5.54
+
+An Overview of the Core Flutter Widgets 5.54
+
+Respecting the Softkeyboard Insets 5.55
+
+Implementing Pull-to-Refresh 5.56
+
+Working on the Shopping Cart & Displaying a Total 5.58
+
+More Dart Basics 6.06
+
+Keys, Lists, Stateful Widgets 6.07
+
+Using String Interpolation 6.11
+
+Adding Images to the App 6.11
+
+Final Polishing! 6.19
+
+Columns & Rows 6.21
+
+Working with Multiple Providers 6.23
+
+Local State vs App-wide State 6.29
+
+Populating the Chart with Values 6.3
+
+State, State Management & The Provider Package/ Approach 6.32
+
+Custom Fonts & Working with Text Themes 6.33
+
+Understanding Error Messages & Fixing Errors 6.34
+
+Passing Callback Functions Around 6.36
+
+Dart Basics - Summary 6.4
+
+Finishing the Meal Detail Page 6.42
+
+Creating a Grid & Working with Linear Gradients 6.46
+
+Module Resources 6.51
+
+Creating a New, Custom Widget 6.52
+
+Listening in Different Places & Ways 6.55
+
+Adding Product Detail Data 6.55
+
+Updating the "Favorite" Status Optimistically 6.59
+
+Responsiveness 7.02
+
+Navigating to the Meal Detail Page 7.04
+
+Validating User Input 7.12
+
+Popping Pages & Passing Data Back 7.17
+
+Adding Transactions with a Date 7.24
+
+Providing an Orders Object 7.25
+
+Further Input & Output Styling and Configuration 7.29
+
+Enums & Multiple Constructors 7.3
+
+Utilizing Optimistic Updating 7.35
+
+Wrap Up 7.38
+
+A Brief Look Under The Hood 7.4
+
+Using Cupertino (iOS) Widgets 7.44
+
+Adding a "Manage Products" Page 7.44
+
+Working with the Emulators / Using the Emulators 7.46
+
+Displaying Recipe Items & Using Network Images 7.49
+
+Improving the Overall Chart 7.57
+
+Saving New Products 7.59
+
+[DART DEEP DIVE] The "null" Value 8.01
+
+Updating Correctly with Stateful Widgets 8.1
+
+Using Forms & Working with Form Inputs 8.11
+
+First Summary & Additional Syntax 8.2
+
+Using the "FutureBuilder" Widget & Improving the Code 8.27
+
+DateFormat Patterns 8.28
+
+More on "for" Loops 8.28
+
+[DART DEEP DIVE] Understanding Lists 8.29
+
+Styling & Theming the App 8.31
+
+Adding an Orders Screen 8.39
+
+Finishing the Chart Bars 8.42
+
+Snackbars & Undoing "Add to Cart" Actions 8.47
+
+Understanding the App Lifecycle 8.48
+
+Widget Tree & Element Tree - What, Why and How? 9.05
+
+Managing the MediaQuery Object 9.13
+
+Containers vs Columns vs Rows 9.18
+
+Understanding Context 9.18
+
+Starting With The App - Adding Base Data 9.25
+
+Creating Custom Exceptions & More Error Handling 9.27
+
+Improving & Styling the Modal Bottom Sheet 9.29
+
+Creating Bars for our Chart 9.32
+
+Showing a Modal Bottom Sheet 9.41
+
+More Styling! 9.42
+
+Preparing Our Backend 9.5
+
+Fetching Orders & Fixing an Issue 9.52
+
+Running the App on a Real iOS Device 9.57
+
+onGenerateRoute & onUnknownRoute 10.1
+
+Wrap Up 10.21
+
+Useful Resources & Links 10.23
+
+Resetting the Quiz 10.24
+
+Adding a "Mark as Favorite" Feature 10.26
+
+Managing Form Input Focus 10.29
+
+Using "Consumer" instead of "Provider.of" 10.3
+
+Submitting Forms 10.3
+
+Calculating a Total Score 10.38
+
+Calling super.initState() etc. 10.45
+
+Time to Practice: Flutter Basics 10.5
+
+Updating Data via PATCH Requests 10.55
+
+Deleting Transactions & Using IconButtons 10.59
+
+Anonymous Functions 11.02
+
+Flexible & Expanded: Deep Dive 11.07
+
+Working with the "textScaleFactor" 11.13
+
+Module Introduction 11.15
+
+Navigating to a New Page 11.15
+
+A Problem with Lists & Stateful Widgets 11.16
+
+Module Introduction 11.17
+
+Selecting Meals for a Chosen Category 11.18
+
+Wrap Up 11.31
+
+Useful Resources & Links 11.37
+
+[DART DEEP DIVE] More on "if" Statements 11.5
+
+Mapping Lists to Widgets 11.58
+
+On-Device vs Web Storage 12.01
+
+Planning the Chart Widget 12.02
+
+Storing Orders in the Web 12.11
+
+Class Constructors & Named Arguments 12.15
+
+Wrap Up 12.37
+
+Configuring & Using Themes 12.44
+
+Adding a Custom Drawer 12.44
+
+Module Introduction 12.55
+
+Adding Layout Widgets 13.06
+
+A Problem! 13.12
+
+Module Introduction 13.15
+
+Getting Started with Date Selection 13.47
+
+Making Cart Items Dismissible 14.03
+
+Adding Validation to All Inputs 14.15
+
+Tabs & Drawers! 14.59
+
+Replacing Pages (Instead of Pushing) 15.21
+
+Adding Orders 15.4
+
+Adding Navigation to the App 16.19
+
+Working with Futures in Dart 16.19
+
+Using Nested Models & Providers 16.24
+
+Defining a Data Model 17.06
+
+Visible (Input / Output) & Invisible (Layout / Control) Widgets 17.17
+
+Adding Filtering Logic 17.34
+
+Module Introduction 19.35
+
+Why State Management? And what is "State" and "State Management"? 19.57
+
+More on State Management & The Provider Package 21.09
+
+More on Git (Version Control System) 31.46
+https://www.udemy.com/course/dartlang/
+Downloading Dart 1.34
+
+Quick Assignment 1.4
+
+Installing Dart 3.36
+
+Comments 3.52
+
+Arithmetic Operators - Part III 4.01
+
+Keywords - const and final 4.55
+
+Naming Variables 4.59
+
+Hello World 5.42
+
+While Loop 8.3
+
+For Loops 9.18
+
+Decision Making - Part II 9.34
+
+Downloading, Installing and configuring Intellij 10.03
+
+Relational Operators 10.35
+
+Arithmetic Operators - Part I 11.33
+
+Do While Loops 11.44
+
+Logical Operators 12.52
+
+Taking in Input 14.05
+
+Arithmetic Operators - Part II 15.16
+
+Decision Making - Part I 17.32
+
+Variables 17.42
+https://www.udemy.com/course/pre-google-flutter-and-dart-everything-you-need-to-know/
+Does Flutter come with a framework? 0.25
+
+Does Flutter come with widgets? 0.25
+
+How does Flutter run my code on iOS? 0.42
+
+How does Flutter run my code on Android? 0.46
+
+What is inside the Flutter SDK? 0.54
+
+What is Dart? 1.26
+
+What You’ll Learn From This Course? 1.31
+
+What is Dart and Why Use It? 2.11
+
+Benefits of Flutter 2.28
+
+Installing Flutter for Windows, Linux, and macOS 2.48
+
+How Much Experience as an App Developer Should I have to use Flutter? 2.53
+
+What is Flutter? 2.55
+
+Should You Consider Learning Dart in 2018 and Beyond? 3.05
+
+Why did Flutter Decide to Use Dart? 4.34
+
+Knowing Your App History 4.55
+
+Understanding why you should consider using Google Flutter. 5.11
+https://www.udemy.com/course/dart-programming-tutorial-learn-the-dart-for-flutter/
+Basics of Dart programming language 7.17
+
+Collections in Dart 7.31
+
+Dart Programming - Loops 7.43
+
+Dart Sets 10.2
+
+Null-aware Operators in Dart 10.32
+
+Calsses and object 10.39
+
+Dart Exception Handling With Examples 11.26
+
+Dart Future, async and await 11.42
+
+Types and casting in Dart 14.03
+
+Classes and enums 14.54
+https://www.udemy.com/course/learn-flutter-by-doing/
+OOP - Abstraction 1.25
+
+OOP - Inheritance 1.36
+
+API - Application programming interface 1.48
+
+Widgets review 2.46
+
+Introduction 4.18
+
+Create function part 1 (display image background) 8.47
+
+Create function part 4 (get temperature function) 8.48
+
+Create function part 2 (get current location function) 8.59
+
+Widgets 12.2
+
+Create a new project 12.29
+
+Create function part 5 (get temperature function part 2) 16.21
+
+StatefulWidget 16.35
+
+Create function part 3 (get current location function) 16.56
+https://www.udemy.com/course/learn-flutter-dart-by-doing-part-2/
+Introduction 1.17
+
+Update GetLocation Class 2.11
+
+Create WeatherData class 6.3
+
+Create HttpHandler class 7.31
+
+Create GetIcons class 12.18
+
+Create DisplayWeatherData class 12.46
+https://www.udemy.com/course/learn-make-intro-view-using-flutter/
+main.dart 0.32
+
+3- Create Page in App 5.36
+
+4- Try The Package 5.47
+
+Finish 5.47
+
+1- Install The Package 6.36
+
+2- Create IntroViewFlutter 7.29
+https://www.udemy.com/course/learn-to-program-apps/
+BLOC pattern training session on the Psi (Telepathy) App 53.38
+https://www.udemy.com/course/body-language-full-course/
+The Leg Twine 0.27
+
+The Wet Fish Handshake 0.3
+
+Mind Your Legs 0.33
+
+The Dominant Handshake 0.33
+
+The Submissive Handshake 0.34
+
+Palm Against Each Other 0.34
+
+About Good Standing Posture 0.35
+
+The Dart EYE 0.35
+
+The Vice Handshake 0.37
+
+About Good Sitting Posture 0.38
+
+Politician’s Handshake 0.39
+
+Free Your Hands 0.4
+
+The Straight Finger Handshake 0.41
+
+Zero Arm Barriers 0.41
+
+Something To Know 0.42
+
+The Bone Breaker Handshake 0.43
+
+Workplace Success 0.44
+
+Face the Person 0.44
+
+The Fingertip Handshake 0.44
+
+Palm Up 0.44
+
+The Magic of Blinking 0.44
+
+Look into the Eyes 0.45
+
+Palm Down 0.45
+
+Attention Position 0.46
+
+Pull Back the Shoulders 0.46
+
+The Eyebrow Flash 0.46
+
+The Equality Handshake 0.47
+
+The Double Cross 0.47
+
+What Is Sign Language? 0.48
+
+Figure Four Leg Clamp 0.48
+
+Look into the Eyes 0.49
+
+The Sideways Glance 0.49
+
+Dominant Stand 0.5
+
+Use All Muscles 0.5
+
+Stand Erect 0.51
+
+The Dilating and Contracting of Pupils 0.51
+
+Importance of Body Language 0.53
+
+Introduction To The Course 0.55
+
+The Ankle Lock 0.55
+
+Mind Your Limbs 0.56
+
+What is a Positive Body Language? 0.57
+
+Assertive Behavior 0.58
+
+Importance Of Non-verbal Communication 1.01
+
+Open Your Palms 1.02
+
+Face the Person 1.03
+
+The Arm Parallel to The Body 1.03
+
+Parallel Legs (Important For Ladies) 1.04
+
+Don’t Slouch 1.06
+
+Features Of Body Language 1.08
+
+What Is Body Language? 1.1
+
+Stand Erect and Face Up 1.1
+
+Public Speaking 1.11
+
+Final Tips 1.12
+
+Relationships 1.14
+
+The Authority Gaze 1.14
+
+Don’t Grip Your Arms 1.15
+
+Get the Correct Pace 1.18
+
+Notable for Body Language 1.2
+
+Features Of Sign Language 1.36
+
+Uncross the Arms 1.39
+
+The Standing Leg Cross 2.05
+
+Do’s and Don’ts 2.09
+
+The raising & the lowering of eyebrows 2.27
+
+An Original Smile Vs . A Fake Smile 2.3
+https://www.udemy.com/course/learn-flutter-beginners-course/
+Custom Method Widget 1.27
+
+Basic List Widget 1.45
+
+How to Install Flutter on Android Studio 1.53
+
+Stack 2.11
+
+CheckBox Widget 2.11
+
+First Flutter Application 2.2
+
+Switch Widget 2.44
+
+StatelessWidget Class 2.53
+
+List Widget (Array of List) 3.16
+
+Custom Class Widget 3.3
+
+Gridview 3.42
+
+SnackBar 3.48
+
+Basic : Create AppBar & It's Basic Properties 3.49
+
+Alert Dialog 3.49
+
+Routes 4.0
+
+Radio Widget 4.06
+
+Buttons Widget 4.18
+
+Row & Column Widget 4.19
+
+Simple Dialog 4.25
+
+TextField Widget 4.44
+
+Slider Widget 4.54
+
+Simple Drawer Widgets 5.56
+
+AppBar Leading & Actions[] 5.59
+
+Tabbar : Top & Bottom 6.04
+
+StatefullWidget Class 6.11
+
+Container Widget 6.37
+https://www.udemy.com/course/introduction-to-flutter/
+About us 0.5
+
+About us 0.56
+
+popUntil() function 1.49
+
+pushReplacementNamed() and popAndPushNamed() functions 2.5
+
+pushNamedAndRemoveUntil() function 3.04
+
+Basic UI 3.06
+
+Adding logic to the design 3.36
+
+push() function 3.49
+
+Form Submission 4.02
+
+Stateful v/s Stateless Widgets 4.07
+
+Appbar, Icon, Center 4.13
+
+Form Validation 4.43
+
+Flexible v/s Expanded 4.55
+
+Flutter Installation 5.41
+
+Creating classes to organize the code 6.39
+
+ListTile, ListViews, Padding 7.05
+
+Parsing Nested JSON 7.36
+
+Text, Row, Column, SingleChildScrollView 8.13
+
+pop() function 8.3
+
+Form Elements 9.02
+
+Prasing simple JSON 9.18
+
+Parsing JSON containing Array 9.42
+
+Future Builder 10.47
+
+Creating a basic interface 10.55
+
+Colors, Container, Gesture Detectors, Snackbar, Gradients 14.37
+
+Http Request for getting data 21.39
+https://www.udemy.com/course/the-complete-guide-to-arturia-tape-201-delay/
+Download files !!! 0.05
+
+Introduction 0.3
+
+What is Space echo ? 2.21
+
+Interface options 4.15
+
+Practice: FX guitar 6.06
+
+Advanced controls: LFO 7.33
+
+Advanced controls: Inertia, flutter, noise 7.45
+
+Advanced controls: Input EQ 7.47
+
+The Mode selector 9.21
+
+Practice: Guitar and bass 10.24
+
+Options and settings tour 10.5
+
+Practice: FX, voice 13.33
+https://www.udemy.com/course/logica-de-programacao-com-dart/
+Organizando 0.43
+
+Tipagem de Lista 1.02
+
+Arrow Function 1.2
+
+Iniciando Projeto 1.27
+
+Avisos 1.3
+
+Refatorando carrinho de compras 1.38
+
+Recapitulando 1.4
+
+Acessando um item da Lista 1.47
+
+Tipando maps 1.51
+
+Conhecendo o CMD 1.57
+
+Adicionando a lista 2.08
+
+Tipagem de variável 2.11
+
+Estrutura de decisão com argumentos 2.11
+
+Iniciando Projeto 2.13
+
+Função com parâmetro 2.16
+
+Parâmetros inteligentes 2.17
+
+Sintaxe e Semântica 2.22
+
+Executando programas 2.26
+
+Melhorando a saída (impressão) 2.35
+
+Removendo um item da lista 2.38
+
+Instalando uma IDE (VSCode) 2.43
+
+Recapitulando 2.45
+
+Comentários 2.51
+
+Construtores inteligêntes 2.51
+
+Refatorando cálculo de idade 2.54
+
+Concatenação de texto 2.57
+
+Tipagem 3.0
+
+Pasta e arquivos gerados 3.02
+
+Argumentos 3.02
+
+Refatorando calculo de IMC e cadastro 3.05
+
+Funções 3.15
+
+Herança 3.17
+
+Exercício de Algoritmo 3.25
+
+Paradigma Linear Modular 3.25
+
+Instalando o Dart 3.34
+
+Finalizando 3.35
+
+Exercício Final 3.41
+
+Limpando terminal 3.48
+
+Método Construtor 3.49
+
+Criando uma lista de Map 3.5
+
+Loop com While 3.51
+
+Exercício com Herança 4.09
+
+Finalizando Algoritmo 4.1
+
+Variável Global 4.14
+
+Recapitulando 4.17
+
+Funções com retorno 4.28
+
+Modularizando Projeto 4.31
+
+Primeiro Algoritmo 4.34
+
+Navegando entre pastas 4.38
+
+Criando Keys dinamicamente 4.41
+
+Algoritmos 4.48
+
+O que é? 4.48
+
+Importando outro arquivo 4.57
+
+Entendendo os Arrays 4.58
+
+Estrutura de Projeto 5.13
+
+Criando Métodos 5.29
+
+Loop com For 5.33
+
+Programa com Loop While 5.34
+
+Linguagem de Programação 5.35
+
+Protegendo variáveis 5.45
+
+Class 6.17
+
+Iniciando projeto 6.2
+
+Introdução 6.26
+
+Criando comandos 6.39
+
+O que são Maps 7.34
+
+Entrada(input) 7.46
+
+Variáveis 8.12
+
+Algoritmos Computacionais 8.57
+
+Operações matemáticas 9.16
+
+Criando Array (List) 9.42
+
+Estrutura de decisão 10.04
+
+Função principal (main) e Saída (Output) 11.07
+
+Cálculo de IMC 16.31
+https://www.udemy.com/course/dart-flutter-gratis/
+S03-CL05: Ámbito léxico 1.4
+
+S06-CL05: Instalación plugin Flutter para Android Studio 2.2
+
+S04-CL01: Condicionales 2.32
+
+S02-CL01: Instalacción Flutter MacOS 2.41
+
+S05-CL01: Clases y contructores 2.41
+
+S02-CL08: Booleans 2.49
+
+S02-CL02: Editores para Dart 3.0
+
+S01-CL01: Formato del curso 3.02
+
+S01-CL02: Sistema de puntuación 3.21
+
+S04-CL04: Switch y case 3.26
+
+S05-CL02: Usando constructores y atributos 3.27
+
+S07-CL01: Creando un proyecto en Flutter 3.47
+
+S07-CL04: Creando emulador Android 3.48
+
+S05-CL04: Métodos 3.57
+
+S02-CL03: Hello World Dart! 4.01
+
+S03-CL04: Funciones anónimas 4.05
+
+S03-CL01: Funciones 4.4
+
+S02-CL10: Sets 4.45
+
+S02-CL12: Runes 4.45
+
+S07-CL06: Scaffold Widget 4.51
+
+S02-CL05: Final and const 4.55
+
+S03-CL03: Funciones como parámetro 5.1
+
+S02-CL11: Maps 5.18
+
+S06-CL01: Instalación Flutter MacOS 5.21
+
+S02-CL09: Lists 5.22
+
+S05-CL03: Otros Constructores 5.27
+
+S07-CL05: StatelessWidget 5.28
+
+S04-CL02: Bucles for 5.4
+
+S07-CL02: Estructura de proyecto Flutter 6.1
+
+S02-CL07: Strings 6.2
+
+S06-CL03: Intalación Android Studio en MacOS 6.22
+
+S04-CL03: Bucles while y do-while 6.52
+
+S07-CL03: El fichero "main.dart" 6.54
+
+S02-CL04: Variables 7.11
+
+S03-CL02: Parámetros opcionales 8.33
+
+S02-CL06: Numbers 8.53
+
+S06-CL04: Intalación Android Studio en Windows 15.39
+https://www.udemy.com/course/curso-de-dart-lang-completo/
+Introdução a Instalação ao Dart Lang 1.16
+
+Introdução 2.47
+
+do While 2.5
+
+Finalizando - Considerações finais 3.23
+
+Dart - Variáveis List Maps 5.01
+
+While - Estrutura de repetição 5.28
+
+IF e Else (TRUE E FALSE) 5.33
+
+Instalando SDK Dart 5.41
+
+Visual Studio Code - Configurando Extensão Dart Language 5.55
+
+Entenda como funciona o Var e Dynamic 6.11
+
+Dart - Trabalhando com List e Maps 6.37
+
+Finalizando Operadores 6.53
+
+Funções - Criando Functions 7.15
+
+Dart - Variável do tipo List 7.17
+
+IF e Else parte 02 7.38
+
+Conhecendo tipos de variáveis - Criando algumas 8.08
+
+Funções - Parte 02 8.09
+
+Trabalhando com Switch 8.2
+
+Usando o FOR - Construindo estrutura 8.31
+
+Executando o primeiro código 10.58
+https://www.udemy.com/course/programacao-linguagem-dart/
+Apresentação 0.34
+
+Variável Tipo Inteiro 1.58
+
+Introdução 2.03
+
+Download e Instalação VSCode 2.04
+
+Repetição com Do While 2.09
+
+Repetição com While 2.52
+
+Executandos primeiras linhas de código no DartPad 2.53
+
+Instalar Dart 3.04
+
+Adicionando Comentários 3.09
+
+Variável Tipo Var e Dynamic 3.41
+
+Conhecendo Compilador DartPad 4.02
+
+Configuração VSCode 4.22
+
+Decisão com Switch 5.25
+
+Variável Tipo Boolean 5.33
+
+Operadores Matemáticos 5.4
+
+Criando um Contrutor 6.31
+
+Variável Tipo String 6.59
+
+Utilizando Funções 7.06
+
+Objetos e Classes 7.35
+
+Lista 8.09
+
+Decisão com If e Else 8.16
+
+Repetição com For 8.18
+
+Map 8.41
+https://www.udemy.com/course/telefondankodlamayap/
+İlk Seviyeyi Tamamladınız 0.03
+
+Dersteki Kodun Tamamı 0.1
+
+Açıklama 0.14
+
+Flutter Notları 0.15
+
+Dart/Flutter Nedir? 0.25
+
+Dart Alıştırması ve Çözümü 0.26
+
+Şimdi Başla 0.29
+
+Flutter Dersi Öncesi Bilgiler 0.41
+
+Flutter Alıştırması 0.48
+
+Hızlı Özet Metni ve Alıştırmanın Çözümü 0.48
+
+Dart Notları 1.03
+
+İlk Uygulama İçin Gerekli Dart Bilgileri 7.31
+
+Flutter ile Boş Uygulama Çerçevesi Oluşturma 17.33
+
+Flutter Dersi Tekrarı 24.43
+https://www.udemy.com/course/dart-todo-lo-que-tienes-que-saber-para-comenzar-en-flutter/
+Dart upgrade 0.49
+
+Introducción al curso 1.1
+
+Introducción personal 2.08
+
+Comentarios 2.12
+
+Excepciones 2.23
+
+Instalación de Visual Studio Code 2.36
+
+Variables, otros 3.22
+
+Clase abstrata 3.49
+
+Creando un proyecto en Dart 4.55
+
+Interfaz 5.21
+
+Funciones 6.11
+
+Operadores 7.52
+
+Clase 9.48
+
+Variables, básico 11.01
+
+Variables, lista 12.44
+
+Sentencias de control de flujo 14.33
+https://www.udemy.com/course/programacion-todosloslenguajes/
+Introducción 0.04
+
+Hola Mundo en Ruby 2.28
+
+Hola Mundo en PHP 3.08
+
+Hola Mundo en MatLab 3.14
+
+Hola Mundo en C++ 3.15
+
+Hola Mundo en Javascript 3.16
+
+Hola Mundo en Java 3.52
+
+Hola Mundo en C 3.54
+
+Hola Mundo en Go 4.01
+
+Hola Mundo en Scala 4.08
+
+Hola Mundo en Python 4.14
+
+Hola Mundo usando la Terminal de Linux 4.28
+
+Hola Mundo en C# 4.32
+
+Hola Mundo en Kotlin 4.46
+
+Hola Mundo con Calculadora Texas 5.58
+
+Hola Mundo en Rust 6.27
+
+Hola Mundo con Flutter 6.47
+
+Hola Mundo con Android Studio 8.12
+
+Hola Mundo en Dart 9.05
+https://www.udemy.com/course/flutter-primeros-pasos/
+Nota: Si no te interesa la instalación de OSX 0.07
+
+Presentaciones de la sección 0.08
+
+Temas puntuales de la sección 0.1
+
+Temas puntuales de la sección 0.1
+
+Temas puntuales de la sección 0.12
+
+Widgets de la semana 0.12
+
+Código fuente de la sección 0.12
+
+Temas puntuales de la sección 0.13
+
+Temas puntuales de la sección 0.13
+
+Código fuente de la sección 0.15
+
+Código fuente de la sección 0.25
+
+Información extra sobre mis cursos 0.25
+
+Demostración del resultado de esta sección - Hola Mundo y Contador 0.51
+
+Introducción a la sección 1.36
+
+Introducción a la sección 1.36
+
+Introducción 1.38
+
+Introducción a la sección 1.39
+
+Introducción a la sección 1.48
+
+Resolviendo - The method 'forEach' was called on null 1.55
+
+¿Cómo funcionará el curso? 2.04
+
+Introducción a la sección 2.15
+
+Despedida del curso 2.34
+
+Árbol de Widgets 2.57
+
+Forma corta de definir propiedades de las clases 3.14
+
+Windows y OSX - Correr aplicación en dispositivo físico - Android 3.32
+
+Tipo de dato - Booleanos y condiciones 3.33
+
+Antes de realizar preguntas en el curso 3.4
+
+Tarea - Cambiar la ubicación del FloatingActionButton 3.45
+
+Demostración de la aplicación - Componentes 3.57
+
+Inicio de proyecto - Contador y Hola Mundo 3.58
+
+Async - Await 4.09
+
+Extends 4.13
+
+Cambiar el idioma del Datepicker 4.13
+
+Contador problema del StatelessWidget 4.15
+
+Implementar funcionalidad de los botones 4.36
+
+Clases abstractas 5.05
+
+Email y Password fields 5.16
+
+Página - HomePage 5.18
+
+Separando la lógica en varios archivos 5.46
+
+Inicio de proyecto - Componentes 6.05
+
+Widget - Circle Avatar 6.08
+
+Instalaciones iniciales - Editor de código y descargas 6.21
+
+Pull to refresh 6.23
+
+Hola Mundo 6.27
+
+Listview - Mostrar una lista de elementos 6.31
+
+Checkbox y Switches 6.46
+
+Tipo de dato - Lista 6.54
+
+Crear proyectos desde Visual Studio Code - Windows 6.57
+
+Conceptos fundamentales de flutter 7.09
+
+Tipos de datos - Números y Strings 7.11
+
+Método map de las listas y ListTile 7.18
+
+Futures 7.21
+
+Navegar con rutas con nombre 7.25
+
+Crear ListTiles a partir de una lista estática 7.26
+
+Getters y Setters 7.32
+
+Rutas generadas dinámicamente y archivo de rutas independiente 7.34
+
+Tipo de dato - Map 7.47
+
+Utilidades - Obtener ícono por strings 7.49
+
+InfiniteScroll 7.52
+
+Creación de un Android Virtual - Windows 7.53
+
+Estructura de un proyecto en Flutter 7.55
+
+Constructores con nombre 8.09
+
+Convertir el JSONString en un Map 8.28
+
+Instalaciones en OSX 8.52
+
+Botón flotante - FloatingActionButton 8.52
+
+Navegar a una nueva pantalla en Flutter 8.53
+
+Mixins 9.02
+
+Resumen de la sección - Contador 9.02
+
+¿Por qué Dart? 9.03
+
+Funciones en Dart 9.03
+
+Listview Builder 9.13
+
+Resumen de la sección 9.18
+
+Card Widget 9.42
+
+Configurar XCode y lanzar nuestro proyecto en iPhone Simulator 9.5
+
+OSX - Correr aplicación directamente en un iPhone 9.54
+
+Android Studio y simulador de Android 10.01
+
+Datepicker 10.02
+
+Clases en Dart 10.06
+
+Columnas y estilos 10.1
+
+Dropdown y DropdownMenuItem 10.14
+
+Widget - Scaffold 10.2
+
+Instalaciones en Windows 10.25
+
+Leer un archivo JSON Local 10.38
+
+Widget - Alert 10.45
+
+Creando más acciones en nuestro contador 11.25
+
+InfiniteScroll con Futures 11.31
+
+Nuestro primer Widget 11.41
+
+StatefulWidget 11.59
+
+Slider 12.04
+
+Image y FadeIn Image 12.18
+
+Future Builder 12.5
+
+inputFields 13.4
+
+Personalizando el estilo de las cards 14.1
+
+Container y AnimatedContainer 15.11
+https://www.udemy.com/course/flutter-bloc-pattern-tutorial-from-scratch-arabic/
+لمحة عن محتويات القسم 1.0
+
+تلذذ و انطلق 1.3
+
+Section Overview 1.5
+
+لمحة عن محتويات القسم 1.51
+
+مثال تسجيل الدخول باستخدام بلوك -Login Example-Bloc Time 3.37
+
+مقارنة بين البلوك العام و البلوك المقيد - Global lvs scoped 3.45
+
+لمحة عن محتويات القسم 3.47
+
+Provider - استخدام الصنف 6.0
+
+تحسين الكود 6.36
+
+Scoped Bloc - البلوك المقيد 6.4
+
+لماذا Streams? 7.54
+
+مثال لعبة تخمين الكلمات -Word Guessing Game 8.0
+
+BLoC مقارنة Stateful Widgets 8.55
+
+مثال تسجيل الدخول- Login Example 10.03
+
+Generics in dart - الاصناف العامة 11.09
+
+لماذا نستخدم صنفان لتنجيز Statefulwidget 11.17
+
+Stream مقاربة و تمثيل 13.2
+
+مثال التحقق من المدخلات- Validation Example 13.27
+
+مثال لعبة النقر المتعدد - Multi-Clicks Game 13.52
+
+Provider -انشاء الصنف 14.02
+
+The Stream Builder -الية عمل 18.5
+
+Streams تنجيز الكود 19.08
+
+تنجيز الكود مثال تسجيل الدخول باستخدام بلوك 24.41
+https://www.udemy.com/course/flutter-bootcamp-with-dart/
+Step 5 - Randomise it 0.1
+
+Why Flutter? 0.11
+
+Scaffolding a Flutter App 0.12
+
+Deploying Flutter Apps to iPhones/iPads 0.12
+
+Show Off Your Work! 0.12
+
+How to Use Container Widgets 0.12
+
+Tip from Angela - Building a Programming Habit 0.12
+
+Customise It! 0.14
+
+How to Add App Icons to the iOS and Android Apps 0.15
+
+Tip from Angela - Habit Building with the Calendar Trick 0.15
+
+Feedback Time! 0.17
+
+How to Use Intention Actions 0.17
+
+Step 3 - Create a Stateful Widget 0.17
+
+How to Play Multiple Sounds 0.17
+
+Checking User Answers 0.17
+
+Step 6 - Update the State 0.18
+
+What are Flutter & Dart Packages? 0.18
+
+Do You Want This? 0.19
+
+Dicee - A Stateful Dice App 0.19
+
+Step 1 - Set Up The Project 0.19
+
+[Dart] Lists 0.19
+
+Adding Material Icons with the Icon Widget 0.2
+
+Xylophone - A Simple Musical Instrument App 0.22
+
+Inheritance in Action 0.23
+
+Feedback Time! 0.26
+
+Windows Setup Step 1 - Install the Flutter SDK 0.27
+
+Building a Score Keeper 0.3
+
+Hot Reload and Hot Restart - Flutter Power Tools 0.39
+
+Join the Student Community 0.46
+
+Step 4 - Make it Interactive 0.56
+
+Mac Setup Step 3 - Install the Android Emulator 1.0
+
+Windows Setup Step 3 - Install the Android Emulator 1.01
+
+Feedback Time! 1.2
+
+Deploying Flutter Apps to an Android Phone 1.24
+
+Mac Setup Step 2 - Install Android Studio 1.39
+
+Feedback Time! 1.57
+
+What is Flutter? 2.05
+
+[Optional] Configure Android Studio for Flutter Development 2.25
+
+MiCard - A Single Screen Personal Business Card App 2.28
+
+Magic 8 Ball - A Decision Making App 2.34
+
+A Quick Note About macOS Catalina 2.39
+
+Displaying the Questions 2.39
+
+How to Play Sound Across Platforms 2.46
+
+The I Am Poor Challenge 2.52
+
+Tip from Angela - How to Deal with Procrastination 3.09
+
+[Dart] Conditionals - IF/ELSE 3.14
+
+[Optional] Guided Tour of Android Studio for Flutter Development 3.16
+
+Using the Expanded Widget to Create Flexible Layouts 3.35
+
+[Dart] Functions - Part 2 3.36
+
+Mac Installation Troubleshooting 3.54
+
+Randomising the Dice 4.0
+
+Step 2 - Create a Stateless Widget 4.08
+
+Mac Setup Step 5 - Test the iOS Simulator 4.1
+
+Tip from Angela - Dealing with Distractions 4.24
+
+Adding Gesture Detection with Flutter Button Widges 4.28
+
+How to Get the Most Out of the Course 5.27
+
+How to use Column & Row Widgets for Layout 5.31
+
+Stateful vs. Stateless Widgets - What's the Difference? 5.38
+
+Mac Setup Step 1 - Install the Flutter SDK 5.44
+
+Tip from Angela - The 20 Minute Method 6.18
+
+Feedback Time! 6.19
+
+Windows Setup Step 2 - Install Android Studio 6.22
+
+Feedback Time! 6.27
+
+Abstraction in Action 6.28
+
+Feedback Time! 6.5
+
+Download the Completed Project 6.52
+
+Windows Installation Troubleshooting 7.19
+
+Challenge 1 Solution 7.24
+
+Download the Completed Project 7.38
+
+The Anatomy of a Flutter App 7.52
+
+Creating a Question Class 8.25
+
+Download the Completed Project 8.26
+
+[Dart] Variables 8.3
+
+Tip from Angela - Learning Before you Eat 8.31
+
+[Dart] Functions Challenge 9.0
+
+Deploying Your Flutter Apps to a Physical Device 9.1
+
+Flutter Card & ListTile Widgets 9.14
+
+[Dart] Arrow Functions 9.15
+
+Feedback Time! 9.24
+
+Overview of the Process 9.33
+
+[Dart] Functions - Part 3 9.46
+
+Creating a New Flutter Project from Scratch 9.51
+
+Refactoring Our App 10.32
+
+Customise It! 10.54
+
+Download the Completed Project 10.59
+
+Tapping into Widget Properties 11.16
+
+Making the Dice Image Change Reactively 12.0
+
+More Dart Programming Challenges 12.08
+
+How to Watch the Course in High Definition 12.11
+
+Challenge 2 Solution 12.23
+
+Tip from Angela - Nothing Easy is Worth Doing! 12.35
+
+Polymorphism in Action 12.39
+
+[Dart] Data Types 12.41
+
+A quick note about Hot Reload 13.15
+
+Feedback Time! 13.19
+
+Updating the UI of Our App 13.22
+
+Mac Setup Step 4 - Install Xcode and Command Line Tools 13.46
+
+Flutter Layouts Challenge 13.49
+
+Incorporating Custom Fonts in Your Flutter App 14.0
+
+[Dart] Class Constructors 14.5
+
+Challenge 3 Solution 14.58
+
+Adding Back the Score Keeper 15.24
+
+Working with Assets in Flutter & the Pubspec file 15.32
+
+Encapsulation in Action 15.36
+
+What are App Challenges? 16.23
+
+Code Challenge 16.25
+
+[Dart] Classes and Objects 17.04
+
+How to Ace this Course 22.12
